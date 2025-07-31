@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/xingfuwang/Documents/GitHub/Sinverw/cs50-xw/buggy'
+relocations:     []
+...
